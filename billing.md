@@ -247,3 +247,4 @@ Use the `downloadInvoice` method to generate a PDF download of the invoice. Yes,
 		'vendor'  => 'Your Company',
 		'product' => 'Your Product',
 	]);
+
